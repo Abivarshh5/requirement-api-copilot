@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+.env
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Logs and outputs
+backend/outputs/
+logs/
+*.log
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific
+backend/models_accessible.txt
+backend/models_list.txt
+backend/verify_service.py
+backend/test_quota*
+backend/diagnose_gemini.py
+backend/test_output.json
