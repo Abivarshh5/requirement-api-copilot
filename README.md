@@ -48,5 +48,3 @@ Requirement → API Copilot is a powerful full-stack tool that transforms messy 
 3. Use the tabs to explore different technical layers.
 4. Click **Refine Spec** to adjust details or add missing features.
 
----
-*Created with ❤️ for builders.*
